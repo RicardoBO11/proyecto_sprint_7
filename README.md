@@ -74,3 +74,4 @@ Cómo ejecutar la aplicación
 - Una vez se este dentro de esa carpeta, se debe escribir streamlit run app.py.
 
 - Streamlit iniciará la aplicación y se abrirá sola en tu navegador; y en el caso de que no se pueda abrir, se debe copiar el enlace que aparece en la terminal y abirlo en el navegador.
+- https://proyecto-sprint-7-rmw4.onrender.com/
